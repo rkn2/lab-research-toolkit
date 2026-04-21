@@ -117,4 +117,8 @@ Before submitting any figure, ask:
 
 - **Edward Tufte, *The Visual Display of Quantitative Information*** — the foundational text; read the first half at minimum
 - **Claus Wilke, *Fundamentals of Data Visualization*** — free online at clauswilke.com/dataviz; practical and directly applicable
+- **[Peer Recognized: Research Data Visualization Tools](https://peerrecognized.com/dataviz/)** — practical guide to chart selection, color palette tools, and software options; includes a downloadable cheat sheet
+- **[Peer Recognized: Research Data Visualization Book](https://peerrecognized.com/visualization/)** — deeper treatment of visualization principles for scientific graphics
+- **[From Data to Viz](https://www.data-to-viz.com/)** — decision tree for choosing the right chart type for your data
+- **[Data Visualization Catalogue](https://datavizcatalogue.com/)** — reference for chart types with descriptions of when to use each
 - **Matplotlib documentation** — matplotlib.org; the gallery is a useful starting point for code examples
