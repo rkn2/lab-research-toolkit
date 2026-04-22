@@ -43,3 +43,4 @@ Guides that still need source material filled in. Each file has `TODO` markers p
 - [ ] `phd-milestones.md` — fill from committee meeting notes + Comprehensive Proposal Breakdown.docx + papers_to_dissertation.pptx + Graduation data checklist.docx
 - [ ] `giving-a-presentation.md` — fill from "Checklist for your presentation.docx" + Defense presentation.docx + slide template
 - [ ] `academic-job-search.md` — write from scratch
+- [ ] **AI worked examples** — small repo or doc with 5–6 annotated Claude examples for research tasks (prompts + why, not just output); lab onboarding artifact for every new student
