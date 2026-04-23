@@ -17,6 +17,7 @@ Start with the onboarding guides if you are new. Everything else is organized ro
 - [How to Read a Paper](how-to-read-a-paper.md) — active reading strategies and what to take notes on
 - [Finding Data](finding-data.md) — sources for datasets and how to evaluate them
 - [AI Tools for Research](ai-tools.md) — ChatGPT, Claude, Gemini, and how to use any of them well
+- [Using AI Effectively: Worked Examples](ai-prompting/README.md) — 6 annotated examples showing real prompts for research and advising tasks, with explanations of why each prompt is structured the way it is
 
 ### Writing
 - [Writing a Research Paper](writing-a-paper.md) — the LEAP method: start with results and work outward
@@ -43,4 +44,4 @@ Guides that still need source material filled in. Each file has `TODO` markers p
 - [ ] `phd-milestones.md` — fill from committee meeting notes + Comprehensive Proposal Breakdown.docx + papers_to_dissertation.pptx + Graduation data checklist.docx
 - [ ] `giving-a-presentation.md` — fill from "Checklist for your presentation.docx" + Defense presentation.docx + slide template
 - [ ] `academic-job-search.md` — write from scratch
-- [ ] **AI worked examples** — small repo or doc with 5–6 annotated Claude examples for research tasks (prompts + why, not just output); lab onboarding artifact for every new student
+- [x] **AI worked examples** — done, see [ai-prompting/](ai-prompting/README.md)
