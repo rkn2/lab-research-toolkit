@@ -41,7 +41,11 @@ Heritage 3D Lab | Penn State Architectural Engineering
 Lab website: https://rkn2.github.io/heritage3d-lab/
 ```
 
-To get the lab logo, ask Rebecca to send you the template — the easiest approach is to copy the format directly from her email. To make the logo appear inline with text in Gmail or Outlook, use an invisible table to hold the image and text side-by-side.
+Download the signature template: [logo-signature.pptx](templates/logo-signature.pptx)
+
+The easiest approach is to copy the format directly from Rebecca's email. To make the logo appear inline with text in Gmail or Outlook, use an invisible table to hold the image and text side-by-side.
+
+For official letters and documents, use the lab letterhead: [letterhead.docx](templates/letterhead.docx)
 
 ---
 
@@ -51,7 +55,7 @@ An IDP is a structured planning conversation between you and Rebecca about where
 
 An IDP is not a performance review. It is a planning tool — a way to make sure the work you are doing this year is actually moving you toward your goals.
 
-Fill out the template below before each annual meeting, then share it with Rebecca so she can prepare.
+Fill out the template before each annual meeting, then share it with Rebecca so she can prepare. Download the Word version here: [IDP_Template.docx](templates/IDP_Template.docx)
 
 ### The Template
 
