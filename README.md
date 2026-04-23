@@ -36,12 +36,27 @@ Start with the onboarding guides if you are new. Everything else is organized ro
 
 ---
 
+## Templates
+
+Downloadable lab files for students:
+
+- [labTemplate.pptx](templates/labTemplate.pptx) — Heritage 3D Lab PowerPoint slide template
+- [logo-signature.pptx](templates/logo-signature.pptx) — email signature template with lab logo
+- [letterhead.docx](templates/letterhead.docx) — official lab letterhead
+- [IDP_Template.docx](templates/IDP_Template.docx) — Individual Development Plan template
+
+---
+
 ## TODO
 
-Guides that still need source material filled in. Each file has `TODO` markers pointing to the source document in the Lab iCloud folder.
+The following sections still need Rebecca's input and are marked with `TODO` inside each file.
 
-- [ ] `joining-the-lab.md` — fill from "The PhD Journey" reflection guide + IDP_Template.docx + logo-signature.pptx
-- [ ] `phd-milestones.md` — fill from committee meeting notes + Comprehensive Proposal Breakdown.docx + papers_to_dissertation.pptx + Graduation data checklist.docx
-- [ ] `giving-a-presentation.md` — fill from "Checklist for your presentation.docx" + Defense presentation.docx + slide template
-- [ ] `academic-job-search.md` — write from scratch
-- [x] **AI worked examples** — done, see [ai-prompting/](ai-prompting/README.md)
+- [ ] `joining-the-lab.md` — accounts/tools checklist for new students; people to meet; what success looks like in this lab
+- [ ] `phd-milestones.md` — oral comp defense experience and what to expect; ETD admin steps and deadlines; post-defense process
+- [ ] `giving-a-presentation.md` — delivery tips (pacing, nerves, eye contact)
+- [ ] `academic-job-search.md` — Rebecca's advice section
+- [x] `joining-the-lab.md` — IDP template, email signature, PhD arc (done)
+- [x] `phd-milestones.md` — committee meeting format, comprehensive proposal structure, papers-to-dissertation model, lab offboarding checklist (done)
+- [x] `giving-a-presentation.md` — slide design, BEAM checklist, defense timing and format (done)
+- [x] `academic-job-search.md` — written from scratch (done)
+- [x] **AI worked examples** — see [ai-prompting/](ai-prompting/README.md)
