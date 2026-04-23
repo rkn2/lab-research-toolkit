@@ -2,6 +2,16 @@
 
 The academic job market is competitive, opaque, and runs on a timeline that most people learn too late. This guide gives you a realistic picture of what the process looks like and how to prepare for it.
 
+**Jump to:**
+- [Is an Academic Job Right for You?](#is-an-academic-job-right-for-you)
+- [The Timeline](#the-timeline)
+- [The Application Materials](#the-application-materials)
+- [Finding Positions](#finding-positions)
+- [The Interview Process](#the-interview-process)
+- [Evaluating and Negotiating Offers](#evaluating-and-negotiating-offers)
+- [If You Do Not Get an Offer](#if-you-do-not-get-an-offer)
+- [Rebecca's Advice](#rebeccas-advice)
+
 ---
 
 ## Is an Academic Job Right for You?

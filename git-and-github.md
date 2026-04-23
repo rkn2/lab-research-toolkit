@@ -4,6 +4,16 @@ Git is a version control system — it tracks changes to files over time and let
 
 The lab's code, website, and resources (including this toolkit) all live on GitHub. You need to know the basics.
 
+**Jump to:**
+- [Core Concepts](#core-concepts)
+- [Getting Started](#getting-started)
+- [The Basic Daily Workflow](#the-basic-daily-workflow)
+- [Essential Commands](#essential-commands)
+- [Writing Good Commit Messages](#writing-good-commit-messages)
+- [What to Put in Git (and What Not To)](#what-to-put-in-git-and-what-not-to)
+- [GitHub for Collaboration](#github-for-collaboration)
+- [Learning More](#learning-more)
+
 ---
 
 ## Core Concepts

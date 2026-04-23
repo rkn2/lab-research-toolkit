@@ -2,6 +2,12 @@
 
 This guide covers every major formal checkpoint in your PhD — from your first committee meeting through graduation. Read the whole thing early so you know what is coming. Return to each section when you are approaching that milestone.
 
+**Jump to:**
+- [Committee Meetings](#committee-meetings)
+- [Comprehensive Exam](#comprehensive-exam)
+- [Dissertation](#dissertation)
+- [Graduating](#graduating)
+
 ---
 
 ## Committee Meetings

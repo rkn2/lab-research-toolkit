@@ -2,6 +2,15 @@
 
 All papers and grants written by this lab are written in LaTeX. If you have not used LaTeX before, this guide will get you started. If you have used it before, the sections on Overleaf and Penn State templates are still worth reading.
 
+**Jump to:**
+- [What is LaTeX?](#what-is-latex)
+- [Overleaf](#overleaf)
+- [Penn State Dissertation Template](#penn-state-dissertation-template)
+- [Journal and Conference Templates](#journal-and-conference-templates)
+- [Essential LaTeX to Know](#essential-latex-to-know)
+- [Managing References with BibTeX](#managing-references-with-bibtex)
+- [When You Get Stuck](#when-you-get-stuck)
+
 ---
 
 ## What is LaTeX?

@@ -2,6 +2,15 @@
 
 A good figure communicates one idea clearly. A bad figure makes the reader work to extract information that should be obvious. This guide covers the principles behind effective research figures and the practical tools to make them.
 
+**Jump to:**
+- [The Core Principle: Data-Ink Ratio](#the-core-principle-data-ink-ratio)
+- [Chart Junk](#chart-junk)
+- [Color](#color)
+- [Typography and Labels](#typography-and-labels)
+- [Tools](#tools)
+- [Figure Checklist](#figure-checklist)
+- [Further Reading](#further-reading)
+
 ---
 
 ## The Core Principle: Data-Ink Ratio

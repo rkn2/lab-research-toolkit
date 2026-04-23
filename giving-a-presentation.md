@@ -2,6 +2,15 @@
 
 A good research presentation does one thing: it makes your audience understand why your work matters and believe your results. Everything else — slide count, fonts, animations — is in service of that goal.
 
+**Jump to:**
+- [The Lab Slide Template](#the-lab-slide-template)
+- [Structure](#structure)
+- [Slide Design](#slide-design)
+- [Delivery](#delivery)
+- [The Q&A](#the-qa)
+- [Pre-Presentation Checklist](#pre-presentation-checklist)
+- [The Dissertation Defense](#the-dissertation-defense)
+
 ---
 
 ## The Lab Slide Template

@@ -2,6 +2,13 @@
 
 Welcome. This guide covers everything you need to do and know in your first weeks, and the ongoing structures that will shape your PhD.
 
+**Jump to:**
+- [Your First Two Weeks](#your-first-two-weeks)
+- [Email Signature](#email-signature)
+- [Individual Development Plan (IDP)](#individual-development-plan-idp)
+- [What the PhD Arc Looks Like](#what-the-phd-arc-looks-like)
+- [What Success Looks Like in This Lab](#what-success-looks-like-in-this-lab)
+
 ---
 
 ## Your First Two Weeks
