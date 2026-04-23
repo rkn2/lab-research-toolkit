@@ -15,7 +15,7 @@ A good research presentation does one thing: it makes your audience understand w
 
 ## The Lab Slide Template
 
-All lab presentations use the Heritage 3D Lab slide template (`labTemplate.pptx` in the Lab iCloud folder). If you are not using it, please switch before you share your slides with anyone.
+All lab presentations use the Heritage 3D Lab slide template. [Download labTemplate.pptx](../labTemplate.pptx) from this repo. If you are not using it, please switch before you share your slides with anyone.
 
 The template has three slides to work from:
 
@@ -103,7 +103,7 @@ Questions are a sign of engagement, not an attack.
 
 Go through this before every talk:
 
-- [ ] Using the Heritage 3D Lab slide template (`labTemplate.pptx`)?
+- [ ] Using the [Heritage 3D Lab slide template](../labTemplate.pptx)?
 - [ ] Title slide has your name first, then collaborators, then Rebecca?
 - [ ] Does the opening establish the problem before any methods or results?
 - [ ] Does every slide title explain the takeaway (not just label the content type)?
