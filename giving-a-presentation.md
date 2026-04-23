@@ -15,13 +15,17 @@ A good research presentation does one thing: it makes your audience understand w
 
 ## The Lab Slide Template
 
-All lab presentations use the BEAM lab slide template. If you are not using it, please switch before you share your slides with anyone.
+All lab presentations use the Heritage 3D Lab slide template (`labTemplate.pptx` in the Lab iCloud folder). If you are not using it, please switch before you share your slides with anyone.
 
-<!-- TODO: Link to or embed the lab PowerPoint template file once it is added to the repo -->
+The template has three slides to work from:
+
+- **Title slide:** Your title centered in the blank space. Footer: your name and email, PI Rebecca Napolitano, Architectural Engineering Department, Penn State University. Add 1–2 representative images from your work.
+- **Content slide:** Slide title goes in the gray bar. Main body text uses the lab blue to match the border.
+- **Thank you slide:** Same footer format as the title slide, with representative images.
 
 **Title slide must include:**
 - Your name first, then collaborators, then Rebecca's name
-- Penn State BEAM Lab
+- Penn State Heritage 3D Lab
 - Images are helpful and encouraged
 
 ---
@@ -99,7 +103,7 @@ Questions are a sign of engagement, not an attack.
 
 Go through this before every talk:
 
-- [ ] Using the BEAM lab slide template?
+- [ ] Using the Heritage 3D Lab slide template (`labTemplate.pptx`)?
 - [ ] Title slide has your name first, then collaborators, then Rebecca?
 - [ ] Does the opening establish the problem before any methods or results?
 - [ ] Does every slide title explain the takeaway (not just label the content type)?
