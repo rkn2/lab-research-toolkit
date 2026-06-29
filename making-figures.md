@@ -4,6 +4,7 @@ A good figure communicates one idea clearly. A bad figure makes the reader work 
 
 **Jump to:**
 - [The Core Principle: Data-Ink Ratio](#the-core-principle-data-ink-ratio)
+- [Choosing the Right Chart Type](#choosing-the-right-chart-type)
 - [Chart Junk](#chart-junk)
 - [Color](#color)
 - [Typography and Labels](#typography-and-labels)
@@ -20,6 +21,32 @@ Edward Tufte, the foundational thinker on data visualization, introduced the con
 > "Above all else, show the data." — Edward Tufte
 
 The goal is to maximize the data-ink ratio. Every element of a figure should earn its place by communicating something. If it does not, remove it.
+
+---
+
+## Choosing the Right Chart Type
+
+Before you make a figure, decide what relationship in the data you are trying to show. The chart type follows from the *question*, not the other way around. Most research figures answer one of these:
+
+| You want to show... | Use | Avoid |
+|---|---|---|
+| How one quantity changes over a continuous variable (time, load, distance) | Line chart | Bar chart for continuous x |
+| Comparison of a value across discrete categories | Bar chart (horizontal if labels are long) | Pie chart |
+| The relationship between two continuous variables | Scatter plot (add a fit line only if justified) | — |
+| The distribution / spread of a single variable | Histogram, box plot, or violin plot | A single mean ± error bar that hides the spread |
+| Distribution across groups | Grouped box / violin, or a strip/swarm plot for small n | Bar-of-means ("dynamite plot") — it hides the actual data |
+| Parts of a whole | Stacked bar, or just a table | Pie chart (humans compare angles poorly) |
+| A value over two dimensions (a field, a matrix) | Heatmap with a perceptually uniform colormap | Rainbow/jet colormap |
+| Spatial data | A map (QGIS) | A table of coordinates |
+
+**Two rules that catch most mistakes:**
+- **Show the data, not just a summary.** With small sample sizes, plot the individual points (strip/swarm/jitter) rather than only a mean and error bar. A bar of means can hide that your "difference" is two clouds that overlap completely.
+- **Match the chart to the variable type.** Continuous x → line or scatter. Categorical x → bar. Mixing these (a bar chart across a continuous axis) misleads the reader about what is and is not measured.
+
+**Decision tools — when you are unsure, use these:**
+- **[From Data to Viz](https://www.data-to-viz.com/)** — a decision tree: tell it what kind of data you have, and it shows the appropriate chart types (with code and common caveats for each).
+- **[Peer Recognized: Research Data Visualization](https://peerrecognized.com/dataviz/)** — practical chart-selection guidance, color-palette tools, and a **downloadable data visualization cheat sheet** that maps data types to chart types on one page. Keep the cheat sheet handy when you are drafting figures.
+- **[Data Visualization Catalogue](https://datavizcatalogue.com/)** — a reference of chart types, each with a description of when (and when not) to use it.
 
 ---
 

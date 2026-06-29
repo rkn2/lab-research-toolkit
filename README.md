@@ -32,6 +32,7 @@ Start with the onboarding guides if you are new. Everything else is organized ro
 
 ### Career
 - [Git and GitHub](git-and-github.md) — version control basics for researchers
+- [Measuring Academic Impact](measuring-impact.md) — h-index, citations, ORCID, altmetrics, and how much to care
 - [Academic Job Search](academic-job-search.md) — how to find, apply for, and land an academic position
 
 ---
@@ -44,6 +45,7 @@ Downloadable lab files for students:
 - [logo-signature.pptx](templates/logo-signature.pptx) — email signature template with lab logo
 - [letterhead.docx](templates/letterhead.docx) — official lab letterhead
 - [IDP_Template.docx](templates/IDP_Template.docx) — Individual Development Plan template
+- [paper-outline.md](templates/paper-outline.md) — research paper outline in LEAP order with key-sentence prompts
 
 ---
 

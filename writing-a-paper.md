@@ -8,6 +8,8 @@ Before anything else, read this guide in full:
 
 This is the best practical guide to writing a research paper that Rebecca has found. Everything below is a summary and framing — the link is the real resource.
 
+**Then use the outline template:** [templates/paper-outline.md](templates/paper-outline.md) — a copy-paste paper skeleton organized in LEAP order, with a key-sentence prompt for every section. Start your next paper by filling it in.
+
 ---
 
 ## The Core Idea: Start With the Results

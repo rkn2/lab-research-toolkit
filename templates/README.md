@@ -8,3 +8,4 @@ Lab files students can download and use directly.
 | [logo-signature.pptx](logo-signature.pptx) | Email signature template with lab logo and formatting | [Joining the Lab](../joining-the-lab.md) |
 | [letterhead.docx](letterhead.docx) | Official lab letterhead for formal documents and letters | [Joining the Lab](../joining-the-lab.md) |
 | [IDP_Template.docx](IDP_Template.docx) | Individual Development Plan template for annual planning meetings with Rebecca | [Joining the Lab](../joining-the-lab.md) |
+| [paper-outline.md](paper-outline.md) | Copy-paste research paper outline in LEAP writing order, with a key-sentence prompt per section | [Writing a Research Paper](../writing-a-paper.md) |
